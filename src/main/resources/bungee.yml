@@ -1,0 +1,3 @@
+name: hBungee
+version: '${project.version}'
+main: rip.orbit.obungee.Bungee
